@@ -1,6 +1,4 @@
-Here’s a README file for your **Diet & Workout Management System** project:  
 
----
 
 # **Diet & Workout Management System**  
 
@@ -61,4 +59,4 @@ The **Diet & Workout Management System** is a web-based application designed to 
 
 ---
 
-Let me know if you need modifications or additional details! 🚀
+
